@@ -12,4 +12,4 @@
 
 [“Russia”, “Denmark”, “Kazan”] → []
 
-[КОД](total/Program.csProgram.cs) | [БЛОК-СХЕМА](total/diagram.drawio.pngdiagram.drawio.png)
+[КОД](total/Program.cs) | [БЛОК-СХЕМА](total/diagram.drawio.png)
